@@ -26,3 +26,14 @@
    24  git push
    25  git push
    26  history
+   27  cd ..
+   28  pwd
+   29  git clone https://github.com/ndf14685/gitHub.git
+   30  ls
+   31  ls
+   32  pwd
+   33  ls
+   34  cd gitHub/
+   35  ls
+   36  history
+ 
